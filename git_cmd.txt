@@ -1,2 +1,6 @@
 git Status :
 	to check if any changes are there in repo
+git add . or "file path with name"
+	to add a file into git memory
+git commit :
+	to commit a file for to send to remote i.e GitHub.com
