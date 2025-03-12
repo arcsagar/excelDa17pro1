@@ -4,3 +4,5 @@ git add . or "file path with name"
 	to add a file into git memory
 git commit :
 	to commit a file for to send to remote i.e GitHub.com
+git push: 
+	to push latest changes to remote i.e GitHub.com
